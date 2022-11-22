@@ -4,4 +4,5 @@
     <string name="subscriber_email_hint">E-mail</string>
     <string name="subscriber_name_hint">Nome</string>
     <string name="subscriber_button">Adicionar</string>
+    <string name="message_add_button">Botão para adicionar subscriber</string>
 </resources>
